@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/christophkloppner/.nvm/versions/node/v18.16.0/bin/node /Users/christophkloppner/.nvm/versions/node/v18.16.0/bin/yarn install
+
+PATH: 
+  /opt/homebrew/Cellar/php@8.1/8.1.20/bin:/opt/homebrew/opt/mysql-client/bin:/Users/christophkloppner/.nvm/versions/node/v18.16.0/bin:/opt/homebrew/opt/php@8.1/sbin:/opt/homebrew/opt/php@8.1/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/christophkloppner/www/symfony6/training-blackbit/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/christophkloppner/.nvm/versions/node/v18.16.0/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/christophkloppner/.nvm/versions/node/v18.16.0/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/christophkloppner/.nvm/versions/node/v18.16.0/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  

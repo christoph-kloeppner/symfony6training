@@ -1,0 +1,10 @@
+@import "~bootstrap";
+body {
+    background-color: lightgray;
+}
+.active {
+    color: red;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
